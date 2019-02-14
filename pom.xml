@@ -58,7 +58,7 @@
     <artifactId>sample</artifactId>
     <name>Sample Template Set</name>
     <version>1.0-SNAPSHOT</version>    
-    <packaging>bundle</packaging>
+    <packaging>.war</packaging>
     <description>This is the custom profile module (Sample Template Set) for running on a Digital Experience Manager server.</description>
 
     <scm>
